@@ -1,0 +1,12 @@
+{
+  "name": "new-docs",
+  "private": true,
+  "scripts": {
+    "dev": "8n dev",
+    "build": "8n build",
+    "start": "8n start"
+  },
+  "dependencies": {
+    "@ahmedrowaihi/8n": "latest"
+  }
+}
