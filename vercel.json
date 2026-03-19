@@ -1,3 +1,5 @@
 {
-  "outputDirectory": "out"
+  "framework": "nextjs",
+  "installCommand": "npm install && ./node_modules/.bin/8n eject",
+  "buildCommand": "8n build --server"
 }
